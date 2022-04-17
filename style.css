@@ -87,6 +87,12 @@ p {
         height: 385px;
     }
 
+    .button {
+        padding: 18px;
+        height: 40px;
+        text-align: center;
+    }
+
 }
 
 
